@@ -1,0 +1,20 @@
+generated: '2026-10-23'
+method: none
+source:
+- https://zapier.com/apps/houmo-ai/integrations
+- https://zapier.com/apps/houmo/integrations
+- https://n8n.io/integrations/houmo-ai/
+- https://n8n.io/integrations/houmo/
+- https://composio.dev/toolkits/houmo-ai
+- https://monid.ai/tools/houmo-ai
+checked:
+- https://composio.dev/toolkits/houmo-ai
+- https://monid.ai/tools/houmo-ai
+- https://n8n.io/integrations/houmo-ai/
+- https://n8n.io/integrations/houmo/
+- https://zapier.com/apps/houmo-ai/integrations
+- https://zapier.com/apps/houmo/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
